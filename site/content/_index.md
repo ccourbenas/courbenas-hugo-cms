@@ -28,10 +28,10 @@ products:
       interesantes y aumentamos tu base de seguidores.  Creamos canales de
       distribución a través de Amazon, Shopify y Etsy.  
 values:
-  heading: Conecta tu negocio
+  heading: Conectate
   text: >-
     Si aún no has conectado tu negocio con el mundo, te invitamos que acordemos
     una cita y hablemos sobre las posibilidades, para que lleves tu marca al
-    siguiente nivel.
+    siguiente nivel. Si quieres saber más, haz clic en leer más.
 ---
 
