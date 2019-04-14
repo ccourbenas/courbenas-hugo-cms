@@ -28,11 +28,10 @@ products:
       interesantes y aumentamos tu base de seguidores.  Creamos canales de
       distribución a través de Amazon, Shopify y Etsy.  
 values:
-  heading: Our values
+  heading: Conecta tu negocio
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    Si aún no has conectado tu negocio con el mundo, te invitamos que acordemos
+    una cita y hablemos sobre las posibilidades, para que lleves tu marca al
+    siguiente nivel.
 ---
 
